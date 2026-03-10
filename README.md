@@ -1,5 +1,5 @@
 # OLED Window Shifter
-A Windows 11 program used to reduce burn in potential on OLED monitors.
+A Windows 11 program used to reduce burn in potential caused by stagnant windows on OLED monitors.
 
 <img width="254" height="163" alt="WindowView" src="https://github.com/user-attachments/assets/978f2f50-067e-4945-b676-41184a74f4c5" />
 
