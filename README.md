@@ -24,7 +24,7 @@ pyinstaller --onefile --noconsole "path-to-file.py"
 5. Launch the OLED_Window_Shifter.exe file you just built.
 
 # How To Use It
-Launch the program. It will start minimized and with window shifting enabled (using the default values of Pixel Step Size of 1 and Time Between Moves of 10 seconds). Once launched, you can click the icon in your taskbar to see the window in case you would like to adjust pixel step size or time between moves (To do this, you must first click the stop button, adjust the the values, then click the start button). 
+Launch the program. It will start minimized and with window shifting enabled (using the default values of Pixel Step Size of 1 and Time Between Moves of 10 seconds). Once launched, you can click the icon in your taskbar to see the settings window in case you would like to adjust pixel step size or time between moves (To do this, you must first click the stop button, adjust the the values, then click the start button). 
 
 ## Disclaimer
 
