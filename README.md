@@ -8,7 +8,7 @@ The program is designed to move all windows in the same direction until one hits
 
 NOTE: This does not work with maximized windows. It also may not work if windows are spread out too close to screen boundries.
 
-# How To Build and Run It
+# How To Build .exe and Run It
 1. Download the OLED_Window_Shifter.py file from this repo.
 2. Install Python from the official source.
 3. Using command prompt, install pyinstaller:
