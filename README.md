@@ -6,6 +6,8 @@ A Windows 11 program used to reduce burn in potential on OLED monitors.
 # What It Does
 The program is designed to move all windows in the same direction until one hits the screen boundary, at which it will choose a new random direction to move the windows. The idea is that by periodically shifting windows, you can reduce the potential for burn-in on OLED monitors.
 
+NOTE: This does not work with maximized windows. It also may not work if windows are spread out too close to screen boundries.
+
 # How To Build and Run It
 1. Download the OLED_Window_Shifter.py file from this repo.
 2. Install Python from the official source.
