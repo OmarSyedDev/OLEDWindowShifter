@@ -4,7 +4,7 @@ A Windows 11 program used to reduce burn in potential caused by stagnant windows
 <img width="360" height="231" alt="WindowView" src="https://github.com/user-attachments/assets/92438349-7ee7-41fc-bb04-6df0654f5dfb" />
 
 # What It Does
-The program is designed to move all windows in the same direction until one hits the screen boundary, at which it will choose a new random direction to move the windows. The idea is that by periodically shifting windows, you can reduce the potential for burn-in on OLED monitors.
+The program is designed to move all windows in the same direction until one hits the screen boundary, at which it will choose a new direction to move the windows. The idea is that by periodically shifting windows, you can reduce the potential for burn-in on OLED monitors.
 
 NOTE: This does not work with maximized windows. It also may not work if windows are spread out too close to screen boundries.
 
