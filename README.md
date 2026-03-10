@@ -15,7 +15,7 @@ NOTE: This does not work with maximized windows. It also may not work if windows
 ```
 pip install pyinstaller
 ```
-3. Using command prompt, build the program using the OLED_Window_Shifter.py file (replace "path-to-file.py" below with the actual path to the OLED_Window_Shifter.py file you downloaded in step 1):
+3. Using command prompt, build the .exe file using the OLED_Window_Shifter.py file (replace "path-to-file.py" below with the actual path to the OLED_Window_Shifter.py file you downloaded in step 1):
 ```
 pyinstaller --onefile --noconsole "path-to-file.py"
 ```
