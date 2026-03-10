@@ -1,7 +1,7 @@
 # OLED Window Shifter
 A Windows 11 program used to reduce burn in potential caused by stagnant windows on OLED monitors.
 
-<img width="254" height="163" alt="WindowView" src="https://github.com/user-attachments/assets/978f2f50-067e-4945-b676-41184a74f4c5" />
+<img width="360" height="231" alt="WindowView" src="https://github.com/user-attachments/assets/92438349-7ee7-41fc-bb04-6df0654f5dfb" />
 
 # What It Does
 The program is designed to move all windows in the same direction until one hits the screen boundary, at which it will choose a new random direction to move the windows. The idea is that by periodically shifting windows, you can reduce the potential for burn-in on OLED monitors.
