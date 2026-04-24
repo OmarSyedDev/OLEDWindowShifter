@@ -16,6 +16,7 @@ If you would like to run it as a python script instead of building the .exe, it 
 4. Run the .pyw file.
 
 # How To Build .exe and Run It
+If you would like to build the .exe instead of simply running it as a python script, it is easy to do so:
 1. Download the OLED_Window_Shifter.py file from this repo.
 2. Install Python from the official source.
 3. Using command prompt, install pyinstaller:
