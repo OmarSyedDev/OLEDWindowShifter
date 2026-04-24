@@ -27,8 +27,10 @@ pyinstaller --onefile --noconsole "path-to-file.py"
 
 # How To Run It As A Python Script
 If you would like to run it as a python script instead of building the .exe, it is easy to do so:
-1. Rename the .py file to .pyw (renaming .py to .pyw allows the script to run without the console showing).
-2. Run the .pyw file.
+1. Download the OLED_Window_Shifter.py file from this repo.
+2. Install Python from the official source.
+3. Rename the .py file to .pyw (renaming .py to .pyw allows the script to run without the console showing).
+4. Run the .pyw file.
 
 # How To Use It
 1. Launch the program. It will start with the settings window minimized and with window shifting enabled (using the default values of Pixel Step Size of 1 and Time Between Moves of 10 seconds).
